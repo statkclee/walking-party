@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-07-30T14:57:36+09:00"
+    },
+    {
+      "path": "index.html",
+      "title": "ESG with Walking Party",
+      "description": "Climate Change with Walking Party together !!!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-07-30T14:57:36+09:00"
+    }
+  ],
+  "collections": []
+}

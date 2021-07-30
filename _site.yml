@@ -1,0 +1,12 @@
+name: "Walking Party"
+title: "긷기당 (Walking Party)"
+description: |
+  기후위기 ESG with 걷기당(Walking Party)
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
